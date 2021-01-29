@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading">Welcome To Tic Tac Toe</string>
+    <string name="grid_description">Main Game Grid</string>
+    <string name="status">X\'s turn - Tap to play</string>
+    <string name="cod1">Place 1</string>
+    <string name="cod2">Place 2</string>
+    <string name="cod3">Place 3</string>
+    <string name="cod4">Place 4</string>
+    <string name="cod5">Place 5</string>
+    <string name="cod6">Place 6</string>
+    <string name="cod7">Place 7</string>
+    <string name="cod8">Place 8</string>
+    <string name="cod9">Place 9</string>
+</resources>
